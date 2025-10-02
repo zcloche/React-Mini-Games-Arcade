@@ -1,0 +1,5 @@
+{
+  "name": "React Mini-Games Arcade",
+  "description": "A collection of classic mini-games built with React and Tailwind CSS. Play Tic-Tac-Toe, Snake, Memory Game, Hangman, and more, all from a single, beautifully designed homepage.",
+  "requestFramePermissions": []
+}
